@@ -3,5 +3,5 @@
 /input/*
 /old/
 /v0/
-/v2/
+/v2/[8-9]/
 .DS_Store
