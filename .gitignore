@@ -1,0 +1,7 @@
+/node_modules/
+/output/*
+/input/*
+/old/
+/v1/8/
+/v1/9/
+.DS_Store

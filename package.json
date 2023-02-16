@@ -1,0 +1,16 @@
+{
+  "name": "global-pop-tiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "make-points.js",
+  "scripts": {
+    "build": "sh make-tiles.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "line-by-line": "^0.1.6",
+    "node-stream-zip": "^1.15.0"
+  }
+}
